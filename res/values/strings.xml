@@ -9,5 +9,8 @@
     <string name="singletouch_label">SingleTouchTest</string>
     <string name="multitouch_label">MultiTouchTest</string>
     <string name="multitouch_title">Test Multi Touch</string>
+    <string name="audioplayer_label">Toca el boton para reproducir!</string>
+    <string name="audioplayer_title">Reproduccion de sonido</string>
+    <string name="audioplayer_button">Reproducir</string>
 
 </resources>

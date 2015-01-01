@@ -348,6 +348,7 @@ int id action_mode_close_button 0x7f090020
 int id activity_chooser_view_content 0x7f090021
 int id always 0x7f090014
 int id beginning 0x7f09001b
+int id button_reproducir 0x7f090040
 int id checkbox 0x7f090029
 int id collapseActionView 0x7f090015
 int id decor_content_parent 0x7f09002f
@@ -422,7 +423,8 @@ int layout abc_search_view 0x7f030015
 int layout abc_simple_dropdown_hint 0x7f030016
 int layout activity_lifecycletest 0x7f030017
 int layout activity_main 0x7f030018
-int layout support_simple_spinner_dropdown_item 0x7f030019
+int layout activity_player 0x7f030019
+int layout support_simple_spinner_dropdown_item 0x7f03001a
 int string abc_action_bar_home_description 0x7f0a0001
 int string abc_action_bar_home_description_format 0x7f0a0005
 int string abc_action_bar_home_subtitle_description_format 0x7f0a0006
@@ -440,6 +442,9 @@ int string abc_shareactionprovider_share_with 0x7f0a000f
 int string abc_shareactionprovider_share_with_application 0x7f0a000e
 int string abc_toolbar_collapse_description 0x7f0a0004
 int string app_name 0x7f0a0010
+int string audioplayer_button 0x7f0a001a
+int string audioplayer_label 0x7f0a0018
+int string audioplayer_title 0x7f0a0019
 int string lifecycle_label 0x7f0a0013
 int string lifecycle_textview1 0x7f0a0012
 int string lifecycle_title 0x7f0a0011
