@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android API Test</string>
+    <string name="lifecycle_title">Ciclo de vida</string>
+    <string name="lifecycle_textview1">Activity lanzada por activity main</string>
+    <string name="lifecycle_label">LifeCycleTest</string>
+    <string name="singletouch_title">Test Single Touch</string>
+    <string name="singletouch_label">SingleTouchTest</string>
+    <string name="multitouch_label">MultiTouchTest</string>
+    <string name="multitouch_title">Test Multi Touch</string>
+
+</resources>
