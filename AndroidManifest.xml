@@ -61,6 +61,11 @@
             android:name="videotutoriales.apitest.activities.ExternalStorageTest" 
             android:screenOrientation="portrait">
         </activity>
+        <activity 
+            android:name="videotutoriales.apitest.activities.SoundPoolTest" 
+            android:screenOrientation="portrait" 
+            android:configChanges="keyboard|keyboardHidden|orientation">
+        </activity>
     </application>
 
 </manifest>
