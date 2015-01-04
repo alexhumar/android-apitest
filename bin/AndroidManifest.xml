@@ -71,7 +71,24 @@
             android:configChanges="keyboard|keyboardHidden|orientation" 
             android:screenOrientation="portrait">
         </activity>
-        <activity android:screenOrientation="portrait" android:configChanges="keyboard|keyboardHidden|orientation" android:name="videotutoriales.apitest.activities.MediaPlayerSoundTest"></activity>
+        <activity 
+            android:screenOrientation="portrait" 
+            android:configChanges="keyboard|keyboardHidden|orientation" 
+            android:name="videotutoriales.apitest.activities.MediaPlayerSoundTest">
+        </activity>
+        <activity 
+            android:configChanges="keyboard|keyboardHidden|orientation" 
+            android:screenOrientation="portrait" 
+            android:name="videotutoriales.apitest.activities.FullScreenTest">
+        </activity>
+        <activity 
+            android:name="videotutoriales.apitest.activities.RenderViewTest">
+        </activity>
+        <activity 
+            android:configChanges="keyboard|keyboardHidden|orientation" 
+            android:screenOrientation="portrait" 
+            android:name="videotutoriales.apitest.activities.ShapeTest">
+        </activity>
     </application>
 
 </manifest>

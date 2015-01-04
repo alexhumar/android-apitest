@@ -15,7 +15,7 @@ public class MainActivity extends ListActivity {
 	String pruebas[] = { "LifeCycleTest", "SingleTouchTest", "MultiTouchTest",
 			              "KeyTest", "AccelerometerTest", "AssetsTest", 
 			              "ExternalStorageTest", "SoundPoolTest", "MediaPlayerTest", "MediaPlayerSoundTest", "FullScreenTest",
-			              "RenderViewTest", "FontTest", "SurfaceViewTest"
+			              "RenderViewTest", "ShapeTest", "FontTest", "SurfaceViewTest"
 			           };
 
 	@Override
