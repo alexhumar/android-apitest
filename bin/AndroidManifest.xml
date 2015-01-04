@@ -71,6 +71,7 @@
             android:configChanges="keyboard|keyboardHidden|orientation" 
             android:screenOrientation="portrait">
         </activity>
+        <activity android:screenOrientation="portrait" android:configChanges="keyboard|keyboardHidden|orientation" android:name="videotutoriales.apitest.activities.MediaPlayerSoundTest"></activity>
     </application>
 
 </manifest>

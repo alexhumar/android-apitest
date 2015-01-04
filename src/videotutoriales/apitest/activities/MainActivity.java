@@ -14,7 +14,7 @@ public class MainActivity extends ListActivity {
 	
 	String pruebas[] = { "LifeCycleTest", "SingleTouchTest", "MultiTouchTest",
 			              "KeyTest", "AccelerometerTest", "AssetsTest", 
-			              "ExternalStorageTest", "SoundPoolTest", "MediaPlayerTest", "FullScreenTest",
+			              "ExternalStorageTest", "SoundPoolTest", "MediaPlayerTest", "MediaPlayerSoundTest", "FullScreenTest",
 			              "RenderViewTest", "FontTest", "SurfaceViewTest"
 			           };
 

@@ -12,5 +12,6 @@
     <string name="audioplayer_label">Toca el boton para reproducir!</string>
     <string name="audioplayer_title">Reproduccion de sonido</string>
     <string name="audioplayer_button">Reproducir</string>
+    <string name="mediaplayer_label">Reproducción en loop de audio con MediaPlayer</string>
 
 </resources>
