@@ -332,6 +332,8 @@ int drawable abc_textfield_search_activated_mtrl_alpha 0x7f020030
 int drawable abc_textfield_search_default_mtrl_alpha 0x7f020031
 int drawable abc_textfield_search_material 0x7f020032
 int drawable ic_launcher 0x7f020033
+int id EligeFotoButton 0x7f0a0040
+int id EligeImagenView 0x7f0a003f
 int id action_bar 0x7f0a0031
 int id action_bar_activity_content 0x7f0a0003
 int id action_bar_container 0x7f0a0030
@@ -348,7 +350,7 @@ int id action_mode_close_button 0x7f0a0020
 int id activity_chooser_view_content 0x7f0a0021
 int id always 0x7f0a0014
 int id beginning 0x7f0a001b
-int id button_reproducir 0x7f0a0040
+int id button_reproducir 0x7f0a0042
 int id checkbox 0x7f0a0029
 int id collapseActionView 0x7f0a0015
 int id decor_content_parent 0x7f0a002f
@@ -391,7 +393,7 @@ int id showTitle 0x7f0a0012
 int id split_action_bar 0x7f0a0004
 int id submit_area 0x7f0a003c
 int id tabMode 0x7f0a000c
-int id textView1 0x7f0a003f
+int id textView1 0x7f0a0041
 int id title 0x7f0a0027
 int id up 0x7f0a0001
 int id useLogo 0x7f0a0013
@@ -421,11 +423,12 @@ int layout abc_screen_toolbar 0x7f030013
 int layout abc_search_dropdown_item_icons_2line 0x7f030014
 int layout abc_search_view 0x7f030015
 int layout abc_simple_dropdown_hint 0x7f030016
-int layout activity_lifecycletest 0x7f030017
-int layout activity_main 0x7f030018
-int layout activity_mediaplayer 0x7f030019
-int layout activity_player 0x7f03001a
-int layout support_simple_spinner_dropdown_item 0x7f03001b
+int layout activity_image 0x7f030017
+int layout activity_lifecycletest 0x7f030018
+int layout activity_main 0x7f030019
+int layout activity_mediaplayer 0x7f03001a
+int layout activity_player 0x7f03001b
+int layout support_simple_spinner_dropdown_item 0x7f03001c
 int raw electro_ogg 0x7f050000
 int string abc_action_bar_home_description 0x7f0b0001
 int string abc_action_bar_home_description_format 0x7f0b0005
@@ -447,6 +450,8 @@ int string app_name 0x7f0b0010
 int string audioplayer_button 0x7f0b001a
 int string audioplayer_label 0x7f0b0018
 int string audioplayer_title 0x7f0b0019
+int string image_button 0x7f0b001c
+int string image_imagedescriptor 0x7f0b001d
 int string lifecycle_label 0x7f0b0013
 int string lifecycle_textview1 0x7f0b0012
 int string lifecycle_title 0x7f0b0011

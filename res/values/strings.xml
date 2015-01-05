@@ -13,5 +13,7 @@
     <string name="audioplayer_title">Reproduccion de sonido</string>
     <string name="audioplayer_button">Reproducir</string>
     <string name="mediaplayer_label">Reproducción en loop de audio con MediaPlayer</string>
+    <string name="image_button">Seleccionar imagen</string>
+    <string name="image_imagedescriptor">Foto a cargar</string>
 
 </resources>
