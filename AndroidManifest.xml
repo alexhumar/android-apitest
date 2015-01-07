@@ -89,7 +89,20 @@
             android:screenOrientation="portrait" 
             android:name="videotutoriales.apitest.activities.ShapeTest">
         </activity>
-        <activity android:name="videotutoriales.apitest.activities.ChoosePictureDrawTest" android:configChanges="keyboard|keyboardHidden|orientation" android:screenOrientation="portrait"></activity>
+        <activity 
+            android:name="videotutoriales.apitest.activities.ChoosePictureDrawTest" 
+            android:configChanges="keyboard|keyboardHidden|orientation" 
+            android:screenOrientation="portrait">
+        </activity>
+        <activity 
+            android:configChanges="keyboard|keyboardHidden|orientation" 
+            android:name="videotutoriales.apitest.activities.FontTest">
+        </activity>
+        <activity 
+            android:configChanges="keyboard|keyboardHidden|orientation" 
+            android:screenOrientation="portrait" 
+            android:name="videotutoriales.apitest.activities.SurfaceViewTest">
+        </activity>
     </application>
 
 </manifest>

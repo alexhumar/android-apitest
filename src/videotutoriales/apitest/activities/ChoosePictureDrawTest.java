@@ -1,5 +1,6 @@
 package videotutoriales.apitest.activities;
 
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
 
@@ -68,7 +69,7 @@ public class ChoosePictureDrawTest extends Activity {
 			float dh = currentDisplay.getHeight();
 			
 			BitmapFactory.Options bmpFactoryOptions = new BitmapFactory.Options();
-			//Es para poder acceder a los datos de la imagen que trae el intent pero sin que se cargue el original
+			//Es para poder acceder a los datos de la imagen que trae el intent pero sin que se cargue la imagen original
 			//Se hace ya que al principio solo se calcula el heightRatio y widthRatio
 			bmpFactoryOptions.inJustDecodeBounds = true;
 			
@@ -111,7 +112,7 @@ public class ChoosePictureDrawTest extends Activity {
 				touchListener.setPaint(paint);
 				eligeImageView.setOnTouchListener(touchListener);
 			}
-			catch (IOException e) {
+			catch (FileNotFoundException e) {
 				Log.v("ChoosePictureTest", e.toString());
 			}
 			
